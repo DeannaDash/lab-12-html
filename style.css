@@ -1,3 +1,50 @@
 h2 {
-	color: blue;
+	color: #ffffff;
+	text-decoration: underline;
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+}
+
+p {
+	text-decoration: line-through;
+	font-family: sans-serif;
+	font-size: 12px;
+	
+}
+h1 {
+	border-style:dashed;
+	border-width:5px;
+	border-left-width:10px;
+	border-right-width:10px;
+	border-color:white;
+}
+#top {
+    background-color: #ccc;
+    padding: 20px
+}
+
+.intro {
+    color: red;
+    font-weight: bold;
+}
+#intro{
+	border-width:5px;
+	border-left-width:10px;
+	border-right-width:10px;
+	
+}
+.spotlight{
+border-color:#FEFE22;	
+}
+h2,p {
+    color: darkgreen;
+}
+
+
+
+body {
+	background: pink url(http://wallpapercave.com/wp/aLg4A6m.png)repeat top right;
+
 }
